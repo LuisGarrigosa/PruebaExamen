@@ -4,12 +4,13 @@ package paquete1;
  * 
  * @author LuisGarrigosa
  * @version 1.0
+ *cambio
  */
 
 public class Enteros {
 	
 	/**
-	 * Método que calcula el factorial de un numero
+	 * MÃ©todo que calcula el factorial de un numero
 	 * @param n Introduce un numero n para calcular su factorial
 	 * @return resultado que se trata del factorial del numero n introducido
 	 */
@@ -25,7 +26,7 @@ public static int r_factorial(int n) {
 }
 
 /**
- * Método que calcula el numero de factoriales de un numero
+ * MÃ©todo que calcula el numero de factoriales de un numero
  * @param n Introduce un numero n para calcular el numero de factoriales de un numero 
  * @return resultado que se trata del numero de factoriales del numero n introducido
  */
@@ -40,9 +41,9 @@ public static int factorial(int n) {
 }
 
 /**
- * Método que calcula una cadena al reves de una cadena dada
+ * MÃ©todo que calcula una cadena al reves de una cadena dada
  * @param cadena Introduce una cadena para darle la vuelta a la cadena introducida
- * @return resultado que se trata de la cadena al revés de la cadena introducida
+ * @return resultado que se trata de la cadena al revÃ©s de la cadena introducida
  */
 public static String alreves(String cadena) {
 		String resultado = "";
@@ -54,7 +55,7 @@ public static String alreves(String cadena) {
 }
 
 /**
- * Método que calcula si numero introducido es capicua o no
+ * MÃ©todo que calcula si numero introducido es capicua o no
  * @param n Introduce un numero n para calcular si es capicua o no
  * @return resultado que se trata de si es numero n es capicua o no lo es
  */
